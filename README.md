@@ -4,6 +4,28 @@
 
 This project is part of the **ALX Intermediate Front-End Curriculum**. It focuses on building semantically correct HTML structures, improving accessibility using ARIA attributes, and adhering to W3C and WCAG 2.2 AA standards.
 
+alx-intermediate-frontend/
+│
+├── 0x00-html_advanced/
+│   ├── 0-index.html
+│   ├── 1-index.html
+│   ├── 2-index.html
+│   ├── 3-index.html
+│   └── 4-index.html
+│
+├── 0x02-tailwind-css/
+│   ├── src/
+│   │   ├── input.css
+│   │   └── output.css
+│   ├── tailwind.config.js
+│   ├── 1-index.html
+│   ├── 2-index.html
+│   ├── 3-nav_index.html
+│   ├── 4-flexbox_index.html
+│   ├── 5-gridflex_index.html
+│   └── 6-imageGallery.html
+
+
 ---
 
 ##  Learning Objectives
@@ -182,25 +204,6 @@ This project is a hands-on exploration of **Tailwind CSS**, emphasizing the crea
 - **Objective:** Submit the project for manual QA review.
 - **Repository:** `alx-intermediate-frontend`
 - **Directory:** `0x02-tailwind-css`
-
----
-
-##  Repository Structure
-
-```
-alx-intermediate-frontend/
-└── 0x02-tailwind-css/
-    ├── tailwind.config.js
-    ├── src/
-    │   ├── input.css
-    │   └── output.css
-    ├── 1-index.html
-    ├── 2-index.html
-    ├── 3-nav_index.html
-    ├── 4-flexbox_index.html
-    ├── 5-gridflex_index.html
-    └── 6-imageGallery.html
-```
 
 ---
 
