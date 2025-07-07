@@ -185,7 +185,7 @@ This project is a hands-on exploration of **Tailwind CSS**, emphasizing the crea
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 alx-intermediate-frontend/
@@ -212,9 +212,4 @@ alx-intermediate-frontend/
 - Use browser DevTools to inspect grid and flexbox layouts.
 
 ---
-
-##  Author
-
-**Vincent Omondi Owuor**  
-Final-Year IT Student | AWS Certified | Serverless Full-Stack Developer  
-GitHub • LinkedIn
+ 
