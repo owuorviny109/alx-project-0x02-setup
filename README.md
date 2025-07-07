@@ -111,13 +111,13 @@ start 3-index.html      # Windows
 
 # CSS Grid and Flexbox: Creating Complex, Responsive Layouts using Tailwind
 
-## 📚 Project Overview
+##  Project Overview
 
 This project is a hands-on exploration of **Tailwind CSS**, emphasizing the creation of complex, responsive, and aesthetically pleasing layouts using **utility-first CSS** principles. It includes a progressive series of tasks that build foundational and advanced knowledge in **CSS Grid**, **Flexbox**, and responsive design with Tailwind.
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - **Tailwind Configuration:** Master installation and configuration of Tailwind CSS for modern development environments.
 - **Responsive Layouts:** Build scalable, responsive user interfaces using Tailwind’s utility classes and responsive modifiers.
@@ -127,7 +127,7 @@ This project is a hands-on exploration of **Tailwind CSS**, emphasizing the crea
 
 ---
 
-## ✅ Requirements
+##  Requirements
 
 - Node.js installed on local machine.
 - Basic proficiency with HTML, CSS, JavaScript.
@@ -139,7 +139,7 @@ This project is a hands-on exploration of **Tailwind CSS**, emphasizing the crea
 
 ---
 
-## 🧪 Tasks Breakdown
+##  Tasks Breakdown
 
 ### 0. **Setting Up and Installing Tailwind CSS with Configuration**
 - **Objective:** Install Tailwind CSS and configure the build process.
@@ -205,7 +205,7 @@ alx-intermediate-frontend/
 
 ---
 
-## 🔍 Notes
+##  Notes
 
 - Ensure the Tailwind CLI or CDN remains active while testing layouts.
 - Follow accessibility best practices (e.g., color contrast, semantic tags).
@@ -214,31 +214,7 @@ alx-intermediate-frontend/
 
 ---
 
-## 📅 Timeline
-
-- **Project Window:** June 30, 2025 → July 7, 2025
-- **Manual Review:** Pending submission
-- **Auto QA Review:** Scheduled post-deadline
-
----
-
-## 🧠 Quiz Status
-
-- ✔️ All quiz questions successfully completed.
-
----
-
-## 🛠️ Developer Tools
-
-- **Editor:** VSCode
-- **Browser:** Chrome / Firefox / Safari
-- **Terminal:** macOS open, Windows start
-- **Build Tool:** Tailwind CLI
-- **Version Control:** Git + GitHub
-
----
-
-## ✍️ Author
+##  Author
 
 **Vincent Omondi Owuor**  
 Final-Year IT Student | AWS Certified | Serverless Full-Stack Developer  
