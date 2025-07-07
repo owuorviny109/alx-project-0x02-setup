@@ -99,7 +99,6 @@ This project is part of the **ALX Intermediate Front-End Curriculum**. It focuse
 
 To test locally:
 
-```bash
 # Clone the repo if needed
 git clone https://github.com/<your-username>/alx-intermediate-frontend.git
 cd alx-intermediate-frontend/0x00-semantic_html
@@ -147,7 +146,7 @@ This project is a hands-on exploration of **Tailwind CSS**, emphasizing the crea
 - **Command:**
   ```bash
   npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-  ```
+  
 
 ### 1. **Creating a Responsive CSS Grid Layout**
 - **Objective:** Create a 3-column responsive layout using Tailwind’s grid utilities.
