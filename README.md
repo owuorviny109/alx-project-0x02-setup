@@ -3,16 +3,6 @@
 ##  Project Context
 
 This project is part of the **ALX Intermediate Front-End Curriculum**. It focuses on building semantically correct HTML structures, improving accessibility using ARIA attributes, and adhering to W3C and WCAG 2.2 AA standards.
-
-alx-intermediate-frontend/
-│
-├── 0x00-html_advanced/
-│   ├── 0-index.html
-│   ├── 1-index.html
-│   ├── 2-index.html
-│   ├── 3-index.html
-│   └── 4-index.html
-
 ---
 
 ##  Learning Objectives
