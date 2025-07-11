@@ -1,6 +1,6 @@
  
  
-# 📁 ALX Intermediate Front-End Projects
+#  ALX Intermediate Front-End Projects
 
 This document consolidates the deliverables and technical documentation for three core projects in the ALX Intermediate Front-End curriculum:
 
@@ -75,7 +75,7 @@ Hands-on practice with **Tailwind CSS**, focusing on utility-first development, 
 * Aesthetic implementation via Tailwind utilities
 * Accessibility and responsive UI best practices
 
-### ⚙ Requirements
+###  Requirements
 
 * Node.js
 * Modern browser
