@@ -1,0 +1,14 @@
+// 3-mixin_margins.scss
+
+@mixin set-horizontal-margin($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+body {
+  @include set-horizontal-margin(10px);
+}
+
+div {
+  @include set-horizontal-margin(15px);
+}
